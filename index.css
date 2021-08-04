@@ -143,6 +143,8 @@ nav a{
 .background-image{
     background-image: url('assets/footer_img.jpg');
     padding: 14%;
+    background-repeat:no-repeat;
+    background-size: cover;
 }
 footer{
     background-color: #F9E7DC;
